@@ -22,8 +22,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src) (https://static.wixstatic.com/media/33301e_a5d42a6008a94749a33be9de5061988d.gif)
-```
+[Link](url) and ![Image](src) [http://brasileiros.com.br/wp-content/uploads/2013/10/brasil-3dfoto3d-blogspot-com-10.jpg](url)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
